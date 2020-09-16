@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Opencv Repository -˜”*°•.˜”*°• import cv2 •°*”˜.•°*”˜
 - 🌱 I’m currently learning -Java &Python &Html & CSS
