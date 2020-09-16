@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am finished
 - 😄-░P░Y░T░H░O░N░E░E░R░
-- 👀-🅹🅰🆅🅰 🅳🅴🆅🅴🅻🅾🅿🅴🆁
--🧑‍💻<h2>Inspiration-ELON MUSK <h2>
+- 👀-🅹🅰🆅🅰 🅳🅴🆅🅴🅻🅾🅿🅴🆁<br/>
+-🧑‍💻<h2>INSPIRATION-ELON MUSK <h2>
 ![alt text](https://image.cnbcfm.com/api/v1/image/106238301-1573511455133gettyimages-1175169776.jpeg?v=1573511490)
 - 👀<h2>
  MY DREAM <h2>
