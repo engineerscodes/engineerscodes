@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 ![alt text](https://image.cnbcfm.com/api/v1/image/106238301-1573511455133gettyimages-1175169776.jpeg?v=1573511490)
 - 👀<h2>
  MY DREAM <h2>
- 
-[![Watch the video](https://img.youtube.com/vi/r2vVsF4LS_I/0.jpg)](https://www.youtube.com/watch?v=r2vVsF4LS_I&t=1s)
+ [![Watch the video](https://img.youtube.com/vi/r2vVsF4LS_I/0.jpg)](https://www.youtube.com/watch?v=r2vVsF4LS_I&t=1s)
 
 ## WEB DEV
 ## Introduction
