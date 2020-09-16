@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![alt text](https://github.com/engineerscodes/Opencv-4/blob/master/venv/image/git.jpeg)
 - 👀<h2>
  MY DREAM <h2>
- [![Watch the video](https://img.youtube.com/vi/r2vVsF4LS_I/vKb2F1B.jpg)](https://youtu.be/r2vVsF4LS_I)
+ [![Watch the video](https://img.youtube.com/vi/r2vVsF4LS_I/hqdefault.jpg)](https://youtu.be/r2vVsF4LS_I)
 
 ## WEB DEV
 ## Introduction
