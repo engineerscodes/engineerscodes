@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am finished
 - 😄-░P░Y░T░H░O░N░I░S░T░
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://https://youtu.be/r2vVsF4LS_I/vKb2F1B.png)](https://youtu.be/r2vVsF4LS_I)
 
