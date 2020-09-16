@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Opencv Repository
+- 🔭 I’m currently working on Opencv Repository -˜”*°•.˜”*°• import cv2 •°*”˜.•°*”˜
 - 🌱 I’m currently learning -Java &Python &Html & CSS
 - 👯 I’m looking to collaborate on OPENCV
 - 🤔 I’m looking for Your contribution
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me on insta:   https://www.instagram.com/naveen__0_19/?hl=en
 - 📫 How to reach me on Linkedln:https://www.linkedin.com/in/naveen-naveen-7742b7190/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:  am finished
--->
+- ⚡ Fun fact: I am finished
+
