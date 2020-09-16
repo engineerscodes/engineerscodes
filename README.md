@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me on Linkedln:https://www.linkedin.com/in/naveen-naveen-7742b7190/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am finished
-- 😄-░P░Y░T░H░O░N░E░E░R░
+- 😄 ░P░Y░T░H░O░N░E░E░R░
 - 👀-🅹🅰🆅🅰 🅳🅴🆅🅴🅻🅾🅿🅴🆁<br/>
--🧑‍💻<h2>INSPIRATION-ELON MUSK <h2>
+-💻<h2>INSPIRATION-ELON MUSK <h2>
 ![alt text](https://image.cnbcfm.com/api/v1/image/106238301-1573511455133gettyimages-1175169776.jpeg?v=1573511490)
 - 👀<h2>
  MY DREAM <h2>
