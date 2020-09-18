@@ -23,4 +23,4 @@
 
 <h1> My Stats</h1>
 </br>
-<img src="https://github-readme-stats.vercel.app/api?username=engineerscodes&&show_icons=true&title_color=24292e&icon_color=bb2acf&text_color=daf7dc&bg_color=ffd33d">
+<img src="https://github-readme-stats.vercel.app/api?username=engineerscodes&&show_icons=true&title_color=24292e&icon_color=bb2acf&text_color=d73a49&bg_color=ffd33d">
