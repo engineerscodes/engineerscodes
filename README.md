@@ -24,4 +24,4 @@
 <h1> My Stats</h1>
 </br>
 
-![alt text](github-readme-stats-mocha-seven.vercel.app/api?username=engineerscodes&&show_icons=true&title_color=fafbfc&icon_color=28a745&text_color=fafbfc&bg_color=0366d6)
+![alt text](https://github-readme-stats-mocha-seven.vercel.app/api?username=engineerscodes&&show_icons=true&title_color=fafbfc&icon_color=28a745&text_color=fafbfc&bg_color=0366d6)
