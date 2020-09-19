@@ -26,4 +26,4 @@
 
 <!---![alt text](https://github-readme-stats-naveen.vercel.app/api?username=engineerscodes&&show_icons=true&title_color=fafbfc&icon_color=28a745&text_color=fafbfc&bg_color=45,0366d6,c5f015) -->
 
-![alt text](https://github-readme-stats-naveen.vercel.app/api?username=engineerscodes&&show_icons=true&title_color=fafbfc&icon_color=28a745&text_color=fafbfc&bg_color=rgb(2,28a745,36))
+![alt text](https://github-readme-stats-naveen.vercel.app/api?username=engineerscodes&&show_icons=true&title_color=fafbfc&icon_color=28a745&text_color=fafbfc&bg_color=rgb(2,28a745,28a745))
