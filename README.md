@@ -24,5 +24,5 @@
 <h1> My Stats</h1>
 </br>
 
-![alt text](https://github-readme-stats-naveen.vercel.app/api?username=engineerscodes&&show_icons=true&title_color=f66a0a&icon_color=f66a0a&text_color=f66a0a&bg_color=45,f03c15,1b1f23) 
+![alt text](https://github-readme-stats-naveen.vercel.app/api?username=engineerscodes&&show_icons=true&title_color=f66a0a&icon_color=f66a0a&text_color=f66a0a&bg_color=45,"red",1b1f23) 
 
