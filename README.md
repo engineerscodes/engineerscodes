@@ -14,9 +14,15 @@
 - ⚡ Fun fact: I am finished
 - 😄 ░P░Y░T░H░O░N░E░E░R░
 - 👀-🅹🅰🆅🅰 🅳🅴🆅🅴🅻🅾🅿🅴🆁
-- 💻<h2>
+- 💻
+<details><summary><h2>INSPIRATION-ELON MUSK<h2></summary>
+<img src="https://github.com/engineerscodes/Opencv-4/blob/master/venv/image/git.jpeg" width="500">
+</details>                                                                                              
+<!--<h2>
  INSPIRATION-ELON MUSK <h2>
 ![alt text](https://github.com/engineerscodes/Opencv-4/blob/master/venv/image/git.jpeg)
+--->
+
 - 👀<h2>
  MY DREAM <h2>
  [![Watch the video](https://img.youtube.com/vi/r2vVsF4LS_I/hqdefault.jpg)](https://youtu.be/r2vVsF4LS_I)
