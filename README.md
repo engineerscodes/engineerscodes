@@ -38,7 +38,7 @@
 
 ![alt text](https://github-readme-stats-naveen.vercel.app/api?username=engineerscodes&&show_icons=true&title_color=f66a0a&icon_color=f66a0a&text_color=f66a0a&bg_color=45,86181d,1b1f23) 
 </br>
-<h1>Respiratory</h1>
+<h1>Git Repository</h1>
 <br> 
 
 ![ReadMe Card](https://github-readme-stats-naveen.vercel.app/api/pin/?username=engineerscodes&repo=Firstyear-practice-programs&&show_icons=true&title_color=fafbfc&icon_color=28a745&text_color=fafbfc&bg_color=45,0366d6,c5f015)
