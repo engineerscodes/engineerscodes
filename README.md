@@ -47,7 +47,6 @@
 ![ReadMe Card](https://github-readme-stats-naveen.vercel.app/api/pin/?username=engineerscodes&repo=YOLOV3-COMPUTER-VISION-&&show_icons=true&title_color=fafbfc&icon_color=28a745&text_color=fafbfc&bg_color=45,0366d6,c5f015)
 ![ReadMe Card](https://github-readme-stats-naveen.vercel.app/api/pin/?username=engineerscodes&repo=JAVA_GUI&&show_icons=true&title_color=fafbfc&icon_color=28a745&text_color=fafbfc&bg_color=45,0366d6,c5f015)
 
-<details>
- <h3> My First Hackertoberfest Challenge</h3>
+<details><summary><h3> My First Hackertoberfest Challenge</summary></h3>
  post -https://www.linkedin.com/feed/update/urn:li:activity:6723119278159220736/
 </details>
