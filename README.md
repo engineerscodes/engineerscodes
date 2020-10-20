@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<h3>Machine learning, Computer Vision enthusiast, Learning new  Skills ,Developing Visually Cool Dapp's ,Trying to contribute more to future AI world,And Waiting to Unleash my Tech Skills to the Future.</h3>
 
 - 🔭 I’m currently working on Opencv Repository -˜”*°•.˜”*°• import cv2 •°*”˜.•°*”˜
 - 🌱 I’m currently learning -Java &Python &Html & CSS
