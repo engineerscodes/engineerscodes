@@ -15,6 +15,7 @@
 - 😄 ░P░Y░T░H░O░N░E░E░R░
 - 👀-🅹🅰🆅🅰 🅳🅴🆅🅴🅻🅾🅿🅴🆁
 - 💻
+<hr>
 <details><summary><h2>INSPIRATION-ELON MUSK<h2></summary>
 <img src="https://github.com/engineerscodes/Opencv-4/blob/master/venv/image/git.jpeg" width="500">
 </details>                                                                                              
@@ -22,7 +23,7 @@
  INSPIRATION-ELON MUSK <h2>
 ![alt text](https://github.com/engineerscodes/Opencv-4/blob/master/venv/image/git.jpeg)
 --->
-
+<hr>
 - 👀
 <details><summary><h2>MY DREAM<h2></summary>
  </br> 
@@ -32,12 +33,15 @@
  <!--<h2>
  MY DREAM <h2>
  [![Watch the video](https://img.youtube.com/vi/r2vVsF4LS_I/hqdefault.jpg)](https://youtu.be/r2vVsF4LS_I) --->
+<hr>
 
 <h1> My Stats</h1>
 </br>
 
 ![alt text](https://github-readme-stats-naveen.vercel.app/api?username=engineerscodes&&show_icons=true&title_color=f66a0a&icon_color=f66a0a&text_color=f66a0a&bg_color=45,86181d,1b1f23) 
 </br>
+
+<hr>
 <h1>Git Repository</h1>
 <br> 
 
@@ -51,6 +55,6 @@
  post -https://www.linkedin.com/feed/update/urn:li:activity:6723119278159220736/
 </details>
 </br>
-
+<hr>
 
 ![](https://komarev.com/ghpvc/?username=engineerscodes&style=flat-square)
