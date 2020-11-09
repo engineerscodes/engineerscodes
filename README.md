@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on OPENCV
 - 🤔 I’m looking for Your contribution
 - 💬 Ask me about Myself and Tech stuffs
-<ul><p>📫How to reach me:<a href="mailto:mknaveen837@gmail.com">mknaveen837@gmail.com</a></p></ul>
+<ul><li><p>📫How to reach me:<a href="mailto:mknaveen837@gmail.com">mknaveen837@gmail.com</a></p></li></ul>
 
 - 📫 How to reach me on fb:      https://www.facebook.com/nav.naveen.9277583/
 - 📫 How to reach me on insta:   https://www.instagram.com/naveen__0_19/?hl=en
