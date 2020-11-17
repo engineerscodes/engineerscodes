@@ -39,7 +39,7 @@
 <h1> My Stats</h1>
 </br>
 
-![alt text](https://github-readme-stats-naveen.vercel.app/api?username=engineerscodes&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=f66a0a&bg_color=45,ff0066,1b1f23) 
+![alt text](https://github-readme-stats-naveen.vercel.app/api?username=engineerscodes&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=45,ff0066,1b1f23) 
 </br>
 
 <hr>
