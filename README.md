@@ -8,7 +8,7 @@
 - 💬 Ask me about Myself and Tech stuffs
 <ul><li><p>📫How to reach me:<a href="mailto:mknaveen837@gmail.com">mknaveen837@gmail.com</a></p></li></ul>
 
-<ul><li><p>📫 me:<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=someone@gmail.com" target="_blank">📧</a></p></il></ul>
+<ul><li><p>📫 me:<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mknaveen837@gmail.com" target="_blank">📧</a></p></il></ul>
 
 - 📫 How to reach me on fb:      https://www.facebook.com/nav.naveen.9277583/
 - 📫 How to reach me on insta:   https://www.instagram.com/naveen__0_19/?hl=en
