@@ -74,7 +74,7 @@
 <hr>
 
 
-- 👨‍💻 All of my projects are available at [http://naveennaveen.me/](http://naveennaveen.me/)
+- 👨‍💻 All of my projects are available at [https://naveennaveen.me/](https://naveennaveen.me/)
 
 
 <h3 align="left">Languages and Tools:</h3>
