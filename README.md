@@ -67,7 +67,7 @@
 </br>
 <hr>
 
-![](https://komarev.com/ghpvc/?username=engineerscodes&style=flat-square)
+![](https://komarev.com/ghpvc/?username=engineerscodes&style=flat-square&label=View%20Count%20ON%20My%20Repo)
 
 <hr>
 <h3 align="center">A passionate frontend developer from India</h3>
