@@ -60,7 +60,7 @@
 
 <details><summary><h3> My First Hackertoberfest Challenge</summary></h3>
  post -https://www.linkedin.com/feed/update/urn:li:activity:6723119278159220736/ <br/>
- <i>Hacktoberfest 2020 Badge - https://dev.to/engineerscodes </i>
+ <i><b>🏅 Hacktoberfest 2020 Badge 🏅</b> - https://dev.to/engineerscodes </i>
 </details>
 </br>
 <hr>
