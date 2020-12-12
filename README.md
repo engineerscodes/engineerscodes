@@ -16,7 +16,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am finished
 - 😄 ░P░Y░T░H░O░N░E░E░R░
-- 👀🅹🅰🆅🅰 🅳🅴🆅🅴🅻🅾🅿🅴🆁
+- 👀 🅹🅰🆅🅰 🅳🅴🆅🅴🅻🅾🅿🅴🆁
 - 💻
 <hr>
 <details><summary><h2>INSPIRATION-ELON MUSK<h2></summary>
