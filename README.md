@@ -85,3 +85,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engineerscodes&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/engineerscodes) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://naveennaveen.me/) 
