@@ -83,7 +83,7 @@
 
 <hr>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engineerscodes&theme=vue)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![GitHub Streak](https://naveen141225514.herokuapp.com/?user=engineerscodes&theme=vue)
 
 
 
