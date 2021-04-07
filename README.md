@@ -85,8 +85,7 @@
 <hr>
 <p  align="center">
 
-
-![GitHub Streak](https://naveen141225514.herokuapp.com/?user=engineerscodes&theme=vue)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=engineerscodes&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 
 
