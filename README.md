@@ -98,3 +98,12 @@
 MORE INFO : [link is here](https://profile-summary-for-github.com/user/engineerscodes)
 <br>
 GITHUB SKYLINE :[LINK TO SKYLINE ](https://skyline.github.com/engineerscodes/2021)
+
+<details><summary><h2>GitHub Activity Graph<h2></summary>
+ <br>
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=engineerscodes)  
+
+![GitHub metrics](https://metrics.lecoq.io/engineerscodes)  
+</details>
+
