@@ -96,7 +96,7 @@ GITHUB SKYLINE :[LINK TO SKYLINE ](https://skyline.github.com/engineerscodes/202
 <details><summary><h2>GitHub Activity Graph<h2></summary>
  <br>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=engineerscodes)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=engineerscodes&theme=react-dark)  
 
 ![GitHub metrics](https://metrics.lecoq.io/engineerscodes)  
 </details>
