@@ -45,8 +45,12 @@ https://user-images.githubusercontent.com/68312849/119080007-f22cc800-ba16-11eb-
 <h1> My Stats</h1>
 </br>
 
-![alt text](https://github-readme-stats-naveen.vercel.app/api?username=engineerscodes&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=45,ff0066,1b1f23) 
-
+<!--![alt text](https://githubreadmestatsn.vercel.app/api?username=engineerscodes&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=45,ff0066,1b1f23) -->
+ <p align="center">
+ 
+  <img src="https://githubreadmestatsn.vercel.app/api?username=engineerscodes&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=45,ff0066,1b1f23">
+ 
+ </p>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineerscodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
