@@ -106,7 +106,9 @@ GITHUB SKYLINE :[LINK TO SKYLINE ](https://skyline.github.com/engineerscodes/202
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=engineerscodes&theme=react-dark)  
 
-![GitHub metrics](https://metrics.lecoq.io/engineerscodes)  
+ 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </details>
  
  
