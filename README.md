@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on OPENCV
 - 🤔 I’m looking for Your contribution
 - 💬 Ask me about Myself and Tech stuffs
-- 👨‍💻 All of my projects are available at [https://naveennaveen.me/](https://naveennaveen.me/)
 <ul><li><p>📫How to reach me:<a href="mailto:mknaveen837@gmail.com">mknaveen837@gmail.com</a></p></li></ul>
 
 <ul><li><p>📫 me:<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mknaveen837@gmail.com" target="_blank">📧</a></p></il></ul>
