@@ -18,7 +18,7 @@
 - 😄 ░P░Y░T░H░O░N░E░E░R░
 - 👀 🅹🅰🆅🅰 🅳🅴🆅🅴🅻🅾🅿🅴🆁
 - 💻
-<hr>
+
 <!--<details><summary><h2>INSPIRATION-ELON MUSK<h2></summary>
 <img src="https://github.com/engineerscodes/Opencv-4/blob/master/venv/image/git.jpeg" width="500">
 </details>  
