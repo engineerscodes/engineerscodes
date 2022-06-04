@@ -19,9 +19,11 @@
 - 👀 🅹🅰🆅🅰 🅳🅴🆅🅴🅻🅾🅿🅴🆁
 - 💻
 <hr>
-<details><summary><h2>INSPIRATION-ELON MUSK<h2></summary>
+<!--<details><summary><h2>INSPIRATION-ELON MUSK<h2></summary>
 <img src="https://github.com/engineerscodes/Opencv-4/blob/master/venv/image/git.jpeg" width="500">
-</details>                                                                                              
+</details>  
+-->
+
 <!--<h2>
  INSPIRATION-ELON MUSK <h2>
 ![alt text](https://github.com/engineerscodes/Opencv-4/blob/master/venv/image/git.jpeg)
