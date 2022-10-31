@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h3><i>A career is all about learning, After working on CP for one year only for placement. Now I am committing myself back to the Development 
-Learning ML Right Now
+Learning DL Right Now
 </i></h3>
 
 - 🔭 I’m currently working on DJANGO  -˜”*°•.˜”*°• NIL •°*”˜.•°*”˜
