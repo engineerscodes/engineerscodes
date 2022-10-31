@@ -1,7 +1,9 @@
 ### Hi there 👋
 <h3><i>A career is all about learning, After working on CP for one year only for placement. Now I am committing myself back to the Development 
-Learning DL Right Now
-</i></h3>
+Learning DL Right Now </i></h3>
+
+
+-  ### Just Work on your Dreams and Try to be a doer 
 
 - 🔭 I’m currently working on DJANGO  -˜”*°•.˜”*°• NIL •°*”˜.•°*”˜
 - 🌱 I’m currently learning - ANDROID
