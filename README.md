@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h3><i>A Life is all about learning </i></h3>
-<h3>When you Starting Thinking about Space, Stars, Black Holes, and the Size of the Universe you find Ego, Pride and Jealousy make no sense</h3>
+<h3>When you Starting Thinking about Space, Stars, Black Holes, and the Size of the Universe you find Ego, Pride and Jealousy makes no sense</h3>
 
 -  ### Just Work on your Dreams and Try to be a doer 
 
