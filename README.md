@@ -15,36 +15,12 @@
 
 - 📫 How to reach me on fb:      https://www.facebook.com/nav.naveen.9277583/
 - 📫 How to reach me on insta:   https://www.instagram.com/naveen__0_19/?hl=en
-- 📫 How to reach me on Linkedln:https://www.linkedin.com/in/naveen-naveen-7742b7190/
+- 📫 How to reach me on Linkedln: https://www.linkedin.com/in/naveen-naveen141/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am finished
 - 😄 ░P░Y░T░H░O░N░E░E░R░
 - 👀 🅹🅰🆅🅰 🅳🅴🆅🅴🅻🅾🅿🅴🆁
 - 💻
-
-<!--<details><summary><h2>INSPIRATION-ELON MUSK<h2></summary>
-<img src="https://github.com/engineerscodes/Opencv-4/blob/master/venv/image/git.jpeg" width="500">
-</details>  
--->
-
-<!--<h2>
- INSPIRATION-ELON MUSK <h2>
-![alt text](https://github.com/engineerscodes/Opencv-4/blob/master/venv/image/git.jpeg)
---->
-
-<!--<ul><li><p> 👀 </p></il></ul>
-<details><summary><h2>MY DREAM<h2></summary>
- </br> -->
- <!--[![Watch the video](https://img.youtube.com/vi/r2vVsF4LS_I/hqdefault.jpg)](https://youtu.be/r2vVsF4LS_I)-->
- <!--
-https://user-images.githubusercontent.com/68312849/119080007-f22cc800-ba16-11eb-9d5c-79cea2a0d713.mp4
-
-
-</details>
- -->
- <!--<h2>
- MY DREAM <h2>
- [![Watch the video](https://img.youtube.com/vi/r2vVsF4LS_I/hqdefault.jpg)](https://youtu.be/r2vVsF4LS_I) --->
 <hr>
 
 <h1> My Stats</h1>
