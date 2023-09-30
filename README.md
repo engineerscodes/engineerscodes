@@ -77,8 +77,6 @@ GITHUB SKYLINE :[LINK TO SKYLINE ](https://skyline.github.com/engineerscodes/202
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=engineerscodes&theme=github-compact)
 
  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 </details>
  
  
