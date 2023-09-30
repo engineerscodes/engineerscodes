@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3><i>A Life is all about learning </i></h3>
 <h3>When you Starting Thinking about Space, Stars, Black Holes, and the Size of the Universe you find Ego, Pride and Jealousy makes no sense</h3>
-- 🔭 I’m currently working on Spring Boot and Angular  -˜”*°•.˜”*°• NIL •°*”˜.•°*”˜
+- 🔭 I’m currently working on Spring Boot and Angular 
 - 🌱 I’m currently learning - ANDROID
 - 👯 I’m looking to collaborate on OPENCV
 - 🤔 I’m looking for Your contribution
