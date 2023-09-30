@@ -1,11 +1,11 @@
 ### Hi there 👋
 <h3><i>A Life is all about learning </i></h3>
 <h3>When you Starting Thinking about Space, Stars, Black Holes, and the Size of the Universe you find Ego, Pride and Jealousy makes no sense</h3>
-- 🔭 I’m currently working on Spring Boot and Angular 
-- 🌱 I’m currently learning - ANDROID
-- 👯 I’m looking to collaborate on OPENCV
-- 🤔 I’m looking for Your contribution
-- 💬 Ask me about Myself and Tech stuffs
+🔭 I’m currently working on Spring Boot and Angular <br>
+🌱 I’m currently learning - ANDROID <br>
+👯 I’m looking to collaborate on OPENCV <br>
+🤔 I’m looking for Your contribution <br>
+💬 Ask me about Myself and Tech stuffs <br>
 <ul><li><p>📫How to reach me:<a href="mailto:mknaveen837@gmail.com">mknaveen837@gmail.com</a></p></li></ul>
 
 <ul><li><p>📫 me:<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mknaveen837@gmail.com" target="_blank">📧</a></p></il></ul>
