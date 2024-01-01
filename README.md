@@ -2,18 +2,13 @@
 <h3><i>A Life is all about learning </i></h3>
 <h3>When you Starting Thinking about Space, Stars, Black Holes, and the Size of the Universe you find Ego, Pride and Jealousy makes no sense and innovation can only be done through experiments and exploration </h3>
 🔭 I’m currently working on Spring Boot and Angular <br>
-🌱 I’m currently learning - ANDROID <br>
-👯 I’m looking to collaborate on OPENCV <br>
+👯 I’m looking to collaborate on computer vision <br>
 🤔 I’m looking for Your contribution <br>
 💬 Ask me about Myself and Tech stuffs <br>
-<ul><li><p>📫How to reach me:<a href="mailto:mknaveen837@gmail.com">mknaveen837@gmail.com</a></p></li></ul>
 
-<ul><li><p>📫 me:<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mknaveen837@gmail.com" target="_blank">📧</a></p></il></ul>
-
-- 📫 How to reach me on fb:      https://www.facebook.com/nav.naveen.9277583/
-- 📫 How to reach me on insta:   https://www.instagram.com/naveen__0_19/?hl=en
-- 📫 How to reach me on Linkedln: https://www.linkedin.com/in/naveen-naveen141/
-- 😄 Pronouns: He/Him
+- 📫How to reach me: mknaveen837@gmail.com
+- 📫 How to reach me on instagram: [link](https://www.instagram.com/esc_key_404/?hl=en)
+- 📫 How to reach me on Linkedln: [link](https://www.linkedin.com/in/naveen-naveen141/)
 - ⚡ Fun fact: I am finished
 - 😄 ░P░Y░T░H░O░N░E░E░R░
 - 👀 🅹🅰🆅🅰 🅳🅴🆅🅴🅻🅾🅿🅴🆁
