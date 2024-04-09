@@ -2,9 +2,10 @@
 <h3><i>A Life is all about learning </i></h3>
 <h3>When you Starting Thinking about Space, Stars, Black Holes, and the Size of the Universe you find Ego, Pride and Jealousy makes no sense and innovation can only be done through experiments and exploration </h3>
 🔭 I’m currently working on Spring Boot and Angular <br>
-👯 I’m looking to collaborate on computer vision <br>
+👯 My Curse word : what is command to xyz stuff,why can't I remember <br>
 🤔 I’m looking for Your contribution <br>
 💬 Ask me about Myself and Tech stuffs <br>
+
 
 - 📫How to reach me: mknaveen837@gmail.com
 - 📫 How to reach me on instagram: [link](https://www.instagram.com/esc_key_404/?hl=en)
