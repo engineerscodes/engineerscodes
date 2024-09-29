@@ -55,7 +55,7 @@
 <hr>
 <p  align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=engineerscodes&theme=react&hide_border=true)](https://git.io/streak-stats)
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=engineerscodes&theme=react&hide_border=true"/>
 
 </p>
 
@@ -64,8 +64,6 @@
 <hr>
 
 MORE INFO : [link is here](https://profile-summary-for-github.com/user/engineerscodes)
-<br>
-GITHUB SKYLINE :[LINK TO SKYLINE ](https://skyline.github.com/engineerscodes/2023)
 
 <details><summary><h2>GitHub Activity Graph<h2></summary>
  <br>
