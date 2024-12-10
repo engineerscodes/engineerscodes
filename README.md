@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I am finished
 - 😄 ░P░Y░T░H░O░N░E░E░R░
 - 👀 🅹🅰🆅🅰 🅳🅴🆅🅴🅻🅾🅿🅴🆁 -> 𝕲𝖔𝖑𝖆𝖓𝖌 𝖉𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗
-- 💻
+- 💻 Writing ShitCode when not paid (personal project) 
 <hr>
 <h1> My Stats</h1>
 </br>
