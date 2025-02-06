@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h3><i>A Life is all about learning </i></h3>
-<h3>When you Starting Thinking about Space, Stars, Black Holes, and the Size of the Universe you find Ego, Pride and Jealousy makes no sense and innovation can only be done through experiments and exploration </h3>
+<h3>To be good at something you have to miserable in the beginning </h3>
 🔭 I’m currently working on Spring Boot and Angular <br>
 👯 My Curse word : what is command to xyz stuff,why can't I remember <br>
 🤔 I’m looking for Your contribution <br>
